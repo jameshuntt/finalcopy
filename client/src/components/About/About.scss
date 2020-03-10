@@ -1,0 +1,27 @@
+.about-main-container {
+    height: 300vh;
+    width: 100vw;
+    padding-top: 27vh;
+    font-family: 'Merriweather', serif;
+    font-size: 3vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.elijah {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.chase {
+    height: 83vh;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.james {
+    height: 83vh;
+    display: flex;
+    flex-direction: row;
+}

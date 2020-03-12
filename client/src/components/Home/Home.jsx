@@ -32,8 +32,8 @@ export default class Home extends Component {
                         */}
                     </div>
                 </div>
-                <div style={{ height: '100vh', width: '100vw', display: 'flex', flexDirection: 'row' }}>
-                    <div style={{ height: '60vh', width: '40vw' }}>
+                <div style={{ height: '100vh', width: '100vw', display: 'flex', flexDirection: 'row', marginTop: '35vh' }}>
+                    <div style={{ marginLeft: '10vw', height: '60vh', width: '40vw' }}>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                             sed do eiusmod tempor incididunt ut labore et dolore magna 
